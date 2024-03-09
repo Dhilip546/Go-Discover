@@ -1,1 +1,1 @@
-# Go-Discover
+# "Go Discover" is a dynamic travel webpage where users can explore and select from various travel packages and destinations. With a user-friendly interface and interactive features, it provides a seamless experience for planning the next adventure.
